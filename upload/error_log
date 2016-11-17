@@ -1,0 +1,118 @@
+[22-Oct-2016 20:17:58] PHP Fatal error:  Call to a member function register() on a non-object in /home2/univeuo0/public_html/upload/index.php on line 31
+[22-Oct-2016 20:18:38] PHP Fatal error:  Call to a member function register() on a non-object in /home2/univeuo0/public_html/upload/index.php on line 31
+[22-Oct-2016 20:55:52] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/univeuo0/public_html/upload/upload.php:18) in /home2/univeuo0/public_html/upload/upload.php on line 55
+[22-Oct-2016 20:55:53] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/univeuo0/public_html/upload/upload.php:18) in /home2/univeuo0/public_html/upload/upload.php on line 55
+[22-Oct-2016 20:55:59] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/univeuo0/public_html/upload/upload.php:18) in /home2/univeuo0/public_html/upload/upload.php on line 55
+[22-Oct-2016 21:04:12] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/univeuo0/public_html/upload/upload.php:18) in /home2/univeuo0/public_html/upload/upload.php on line 55
+[22-Oct-2016 21:16:30] PHP Parse error:  syntax error, unexpected T_EXIT in /home2/univeuo0/public_html/upload/upload.php on line 54
+[22-Oct-2016 21:40:34] PHP Parse error:  syntax error, unexpected T_EXIT in /home2/univeuo0/public_html/upload/upload.php on line 48
+[22-Oct-2016 21:41:00] PHP Parse error:  syntax error, unexpected T_EXIT in /home2/univeuo0/public_html/upload/upload.php on line 48
+[22-Oct-2016 21:56:13] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/univeuo0/public_html/upload/upload.php:46) in /home2/univeuo0/public_html/upload/upload.php on line 49
+[27-Oct-2016 09:41:35] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/univeuo0/public_html/upload/upload.php:46) in /home2/univeuo0/public_html/upload/upload.php on line 49
+[27-Oct-2016 09:45:50] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/univeuo0/public_html/upload/upload.php:46) in /home2/univeuo0/public_html/upload/upload.php on line 49
+[27-Oct-2016 09:47:48] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/univeuo0/public_html/upload/upload.php:18) in /home2/univeuo0/public_html/upload/upload.php on line 65
+[27-Oct-2016 09:47:48] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/univeuo0/public_html/upload/upload.php:18) in /home2/univeuo0/public_html/upload/upload.php on line 65
+[27-Oct-2016 09:47:48] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/univeuo0/public_html/upload/upload.php:18) in /home2/univeuo0/public_html/upload/upload.php on line 65
+[27-Oct-2016 09:47:55] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/univeuo0/public_html/upload/upload.php:46) in /home2/univeuo0/public_html/upload/upload.php on line 49
+[27-Oct-2016 09:48:51] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/univeuo0/public_html/upload/upload.php:18) in /home2/univeuo0/public_html/upload/upload.php on line 66
+[27-Oct-2016 09:48:51] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/univeuo0/public_html/upload/upload.php:18) in /home2/univeuo0/public_html/upload/upload.php on line 66
+[27-Oct-2016 09:50:23] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/univeuo0/public_html/upload/upload.php:18) in /home2/univeuo0/public_html/upload/upload.php on line 66
+[27-Oct-2016 09:50:23] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/univeuo0/public_html/upload/upload.php:18) in /home2/univeuo0/public_html/upload/upload.php on line 66
+[27-Oct-2016 09:50:24] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/univeuo0/public_html/upload/upload.php:18) in /home2/univeuo0/public_html/upload/upload.php on line 66
+[27-Oct-2016 09:50:24] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/univeuo0/public_html/upload/upload.php:18) in /home2/univeuo0/public_html/upload/upload.php on line 66
+[27-Oct-2016 09:50:31] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/univeuo0/public_html/upload/upload.php:46) in /home2/univeuo0/public_html/upload/upload.php on line 49
+[27-Oct-2016 09:57:56] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/univeuo0/public_html/upload/upload.php:18) in /home2/univeuo0/public_html/upload/upload.php on line 66
+[27-Oct-2016 09:57:57] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/univeuo0/public_html/upload/upload.php:18) in /home2/univeuo0/public_html/upload/upload.php on line 66
+[27-Oct-2016 09:57:58] PHP Parse error:  syntax error, unexpected T_IF, expecting ',' or ';' in /home2/univeuo0/public_html/upload/index.php on line 2
+[27-Oct-2016 09:57:58] PHP Parse error:  syntax error, unexpected T_IF, expecting ',' or ';' in /home2/univeuo0/public_html/upload/index.php on line 2
+[27-Oct-2016 10:00:52] PHP Parse error:  syntax error, unexpected T_IF, expecting ',' or ';' in /home2/univeuo0/public_html/upload/index.php on line 2
+[27-Oct-2016 10:01:04] PHP Parse error:  syntax error, unexpected T_IF, expecting ',' or ';' in /home2/univeuo0/public_html/upload/index.php on line 2
+[27-Oct-2016 10:02:46] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/univeuo0/public_html/upload/upload.php:18) in /home2/univeuo0/public_html/upload/upload.php on line 66
+[27-Oct-2016 10:03:53] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/univeuo0/public_html/upload/upload.php:18) in /home2/univeuo0/public_html/upload/upload.php on line 66
+[27-Oct-2016 10:03:54] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/univeuo0/public_html/upload/upload.php:18) in /home2/univeuo0/public_html/upload/upload.php on line 66
+[27-Oct-2016 10:03:54] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/univeuo0/public_html/upload/upload.php:18) in /home2/univeuo0/public_html/upload/upload.php on line 66
+[27-Oct-2016 10:03:55] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/univeuo0/public_html/upload/upload.php:18) in /home2/univeuo0/public_html/upload/upload.php on line 66
+[02-Nov-2016 21:32:49] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/univeuo0/public_html/upload/upload.php:46) in /home2/univeuo0/public_html/upload/upload.php on line 49
+[02-Nov-2016 21:32:53] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/univeuo0/public_html/upload/upload.php:18) in /home2/univeuo0/public_html/upload/upload.php on line 66
+[07-Nov-2016 14:53:03] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/univeuo0/public_html/upload/delete.php on line 7
+[07-Nov-2016 14:53:21] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/univeuo0/public_html/upload/delete.php on line 7
+[07-Nov-2016 14:59:02] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/univeuo0/public_html/upload/delete.php on line 7
+[07-Nov-2016 14:59:06] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/univeuo0/public_html/upload/delete.php on line 7
+[07-Nov-2016 15:00:37] PHP Fatal error:  Call to undefined function  delete() in /home2/univeuo0/public_html/upload/delete.php on line 15
+[07-Nov-2016 15:00:43] PHP Fatal error:  Call to undefined function  delete() in /home2/univeuo0/public_html/upload/delete.php on line 15
+[07-Nov-2016 15:01:57] PHP Fatal error:  Call to undefined function  delete() in /home2/univeuo0/public_html/upload/delete.php on line 13
+[07-Nov-2016 15:03:24] PHP Fatal error:  Call to undefined function  delete() in /home2/univeuo0/public_html/upload/delete.php on line 13
+[07-Nov-2016 15:03:28] PHP Fatal error:  Call to undefined function  delete() in /home2/univeuo0/public_html/upload/delete.php on line 13
+[07-Nov-2016 15:24:03] PHP Warning:  glob() expects parameter 1 to be string, array given in /home2/univeuo0/public_html/upload/index.php on line 60
+[07-Nov-2016 15:24:03] PHP Warning:  array_map() [<a href='function.array-map'>function.array-map</a>]: Argument #2 should be an array in /home2/univeuo0/public_html/upload/index.php on line 60
+[10-Nov-2016 08:12:52] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/univeuo0/public_html/upload/upload.php:66) in /home2/univeuo0/public_html/upload/upload.php on line 66
+[10-Nov-2016 08:14:18] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/univeuo0/public_html/upload/upload.php:66) in /home2/univeuo0/public_html/upload/upload.php on line 66
+[10-Nov-2016 08:15:32] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/univeuo0/public_html/upload/upload.php:33) in /home2/univeuo0/public_html/upload/upload.php on line 66
+[10-Nov-2016 09:51:41] PHP Fatal error:  Class 'COM' not found in /home2/univeuo0/public_html/upload/index.php on line 32
+[10-Nov-2016 09:53:47] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/univeuo0/public_html/upload/index.php on line 32
+[10-Nov-2016 09:54:13] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/univeuo0/public_html/upload/index.php on line 32
+[10-Nov-2016 10:05:28] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/univeuo0/public_html/upload/index.php on line 32
+[10-Nov-2016 10:05:44] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/univeuo0/public_html/upload/index.php on line 32
+[10-Nov-2016 10:05:45] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/univeuo0/public_html/upload/index.php on line 32
+[10-Nov-2016 10:05:45] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/univeuo0/public_html/upload/index.php on line 32
+[10-Nov-2016 10:54:54] PHP Parse error:  syntax error, unexpected $end in /home2/univeuo0/public_html/upload/upload.php on line 134
+[10-Nov-2016 10:56:51] PHP Parse error:  syntax error, unexpected $end in /home2/univeuo0/public_html/upload/upload.php on line 134
+[10-Nov-2016 10:58:50] PHP Parse error:  syntax error, unexpected $end in /home2/univeuo0/public_html/upload/upload.php on line 102
+[10-Nov-2016 11:00:58] PHP Parse error:  syntax error, unexpected $end in /home2/univeuo0/public_html/upload/upload.php on line 102
+[10-Nov-2016 11:00:59] PHP Parse error:  syntax error, unexpected $end in /home2/univeuo0/public_html/upload/index.php on line 112
+[10-Nov-2016 11:00:59] PHP Parse error:  syntax error, unexpected $end in /home2/univeuo0/public_html/upload/index.php on line 112
+[10-Nov-2016 11:01:03] PHP Parse error:  syntax error, unexpected $end in /home2/univeuo0/public_html/upload/index.php on line 112
+[10-Nov-2016 11:01:49] PHP Parse error:  syntax error, unexpected $end in /home2/univeuo0/public_html/upload/index.php on line 111
+[10-Nov-2016 11:02:14] PHP Parse error:  syntax error, unexpected $end in /home2/univeuo0/public_html/upload/index.php on line 111
+[10-Nov-2016 11:04:08] PHP Parse error:  syntax error, unexpected $end in /home2/univeuo0/public_html/upload/index.php on line 111
+[10-Nov-2016 11:10:07] PHP Parse error:  syntax error, unexpected $end in /home2/univeuo0/public_html/upload/index.php on line 111
+[10-Nov-2016 11:11:31] PHP Parse error:  syntax error, unexpected $end in /home2/univeuo0/public_html/upload/upload.php on line 102
+[10-Nov-2016 11:13:19] PHP Parse error:  syntax error, unexpected $end in /home2/univeuo0/public_html/upload/upload.php on line 102
+[10-Nov-2016 11:18:30] PHP Parse error:  syntax error, unexpected $end in /home2/univeuo0/public_html/upload/upload.php on line 92
+[10-Nov-2016 11:19:17] PHP Parse error:  syntax error, unexpected $end in /home2/univeuo0/public_html/upload/upload.php on line 92
+[10-Nov-2016 11:20:10] PHP Parse error:  syntax error, unexpected $end in /home2/univeuo0/public_html/upload/upload.php on line 92
+[10-Nov-2016 11:20:21] PHP Parse error:  syntax error, unexpected $end in /home2/univeuo0/public_html/upload/upload.php on line 92
+[10-Nov-2016 11:21:16] PHP Parse error:  syntax error, unexpected $end in /home2/univeuo0/public_html/upload/upload.php on line 92
+[10-Nov-2016 11:21:24] PHP Parse error:  syntax error, unexpected $end in /home2/univeuo0/public_html/upload/upload.php on line 92
+[10-Nov-2016 11:24:16] PHP Parse error:  syntax error, unexpected T_STRING in /home2/univeuo0/public_html/upload/upload.php on line 23
+[10-Nov-2016 11:28:00] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/univeuo0/public_html/upload/upload.php:18) in /home2/univeuo0/public_html/upload/upload.php on line 43
+[14-Nov-2016 15:04:36] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home2/univeuo0/public_html/upload/upload.php on line 8
+[14-Nov-2016 15:04:36] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/univeuo0/public_html/upload/upload.php:33) in /home2/univeuo0/public_html/upload/upload.php on line 43
+[14-Nov-2016 15:27:31] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home2/univeuo0/public_html/upload/upload.php on line 9
+[14-Nov-2016 15:30:20] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home2/univeuo0/public_html/upload/index.php on line 29
+[14-Nov-2016 15:30:24] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home2/univeuo0/public_html/upload/index.php on line 29
+[14-Nov-2016 15:37:40] PHP Parse error:  syntax error, unexpected T_STRING in /home2/univeuo0/public_html/upload/index.php on line 50
+[14-Nov-2016 15:37:45] PHP Parse error:  syntax error, unexpected T_STRING in /home2/univeuo0/public_html/upload/index.php on line 50
+[14-Nov-2016 15:38:08] PHP Parse error:  syntax error, unexpected T_STRING in /home2/univeuo0/public_html/upload/index.php on line 50
+[14-Nov-2016 15:38:26] PHP Parse error:  syntax error, unexpected T_STRING in /home2/univeuo0/public_html/upload/index.php on line 48
+[14-Nov-2016 15:39:06] PHP Parse error:  syntax error, unexpected T_STRING in /home2/univeuo0/public_html/upload/index.php on line 48
+[14-Nov-2016 16:03:50] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home2/univeuo0/public_html/upload/upload.php on line 9
+[14-Nov-2016 16:05:23] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home2/univeuo0/public_html/upload/upload.php on line 9
+[14-Nov-2016 16:33:00] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/univeuo0/public_html/upload/upload.php:26) in /home2/univeuo0/public_html/upload/upload.php on line 44
+[14-Nov-2016 16:38:56] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home2/univeuo0/public_html/upload/upload.php on line 9
+[14-Nov-2016 16:38:56] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/univeuo0/public_html/upload/upload.php:19) in /home2/univeuo0/public_html/upload/upload.php on line 44
+[14-Nov-2016 16:44:37] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home2/univeuo0/public_html/upload/upload.php on line 9
+[14-Nov-2016 16:44:37] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/univeuo0/public_html/upload/upload.php:1) in /home2/univeuo0/public_html/upload/upload.php on line 44
+[14-Nov-2016 16:51:37] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/univeuo0/public_html/upload/upload.php:1) in /home2/univeuo0/public_html/upload/upload.php on line 44
+[14-Nov-2016 16:52:17] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/univeuo0/public_html/upload/upload.php:1) in /home2/univeuo0/public_html/upload/upload.php on line 44
+[14-Nov-2016 16:52:29] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/univeuo0/public_html/upload/upload.php:1) in /home2/univeuo0/public_html/upload/upload.php on line 44
+[14-Nov-2016 16:53:26] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/univeuo0/public_html/upload/upload.php:1) in /home2/univeuo0/public_html/upload/upload.php on line 53
+[14-Nov-2016 16:53:38] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/univeuo0/public_html/upload/upload.php:1) in /home2/univeuo0/public_html/upload/upload.php on line 44
+[14-Nov-2016 16:53:54] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/univeuo0/public_html/upload/upload.php:1) in /home2/univeuo0/public_html/upload/upload.php on line 53
+[14-Nov-2016 16:54:31] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/univeuo0/public_html/upload/upload.php:1) in /home2/univeuo0/public_html/upload/upload.php on line 53
+[14-Nov-2016 16:54:37] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/univeuo0/public_html/upload/upload.php:1) in /home2/univeuo0/public_html/upload/upload.php on line 44
+[14-Nov-2016 16:54:53] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/univeuo0/public_html/upload/upload.php:1) in /home2/univeuo0/public_html/upload/upload.php on line 53
+[14-Nov-2016 16:55:46] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/univeuo0/public_html/upload/upload.php:1) in /home2/univeuo0/public_html/upload/upload.php on line 53
+[14-Nov-2016 16:57:04] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/univeuo0/public_html/upload/upload.php:1) in /home2/univeuo0/public_html/upload/upload.php on line 44
+[14-Nov-2016 16:58:02] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/univeuo0/public_html/upload/upload.php:1) in /home2/univeuo0/public_html/upload/upload.php on line 53
+[14-Nov-2016 16:58:49] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/univeuo0/public_html/upload/upload.php:19) in /home2/univeuo0/public_html/upload/upload.php on line 44
+[14-Nov-2016 16:58:55] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/univeuo0/public_html/upload/upload.php:19) in /home2/univeuo0/public_html/upload/upload.php on line 44
+[14-Nov-2016 16:58:55] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/univeuo0/public_html/upload/upload.php:19) in /home2/univeuo0/public_html/upload/upload.php on line 44
+[14-Nov-2016 16:58:56] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/univeuo0/public_html/upload/upload.php:19) in /home2/univeuo0/public_html/upload/upload.php on line 44
+[14-Nov-2016 16:59:04] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/univeuo0/public_html/upload/upload.php:19) in /home2/univeuo0/public_html/upload/upload.php on line 44
+[14-Nov-2016 17:01:46] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/univeuo0/public_html/upload/upload.php:19) in /home2/univeuo0/public_html/upload/upload.php on line 44
+[14-Nov-2016 17:02:16] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/univeuo0/public_html/upload/upload.php on line 37
+[14-Nov-2016 17:03:17] PHP Parse error:  syntax error, unexpected T_STRING in /home2/univeuo0/public_html/upload/upload.php on line 38
+[14-Nov-2016 17:04:03] PHP Parse error:  syntax error, unexpected T_STRING in /home2/univeuo0/public_html/upload/upload.php on line 39
+[14-Nov-2016 17:04:48] PHP Parse error:  syntax error, unexpected T_STRING in /home2/univeuo0/public_html/upload/upload.php on line 39
+[15-Nov-2016 14:06:38] PHP Warning:  getimagesize() [<a href='function.getimagesize'>function.getimagesize</a>]: Filename cannot be empty in /home2/univeuo0/public_html/upload/upload.php on line 9
