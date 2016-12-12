@@ -20,7 +20,7 @@
 
 <body>
   <ul class="topnav" align= "center">
-  <li><a id="home" href="index.html" target="_self">Home</a></li>
+  <li><a href="" id="home" target="_self">Home</a></li>
   <li><a href="act.html" target="_self">Activity Calendars</a></li>
   <li><a href="news.html" target="_self">Newsletters</a></li>
   <li><a href="rcd.html" target="_self">Residents' Council Documents</a></li>
@@ -38,11 +38,12 @@
 <div class="galleria">
     <?php $dir = "../Images/";
 $gimages = glob($dir."*.png");
-$id = 0;
+if(count($gimages) === 0){
+  echo '<img src= "placeholder.png" >';
+}else{
 foreach($gimages as $gimage) {
-  $id = $id +1;
     echo '<img src="'.$gimage.'" >';
-}?>
+}}?>
 </div>
 <script>
   (function() { 
@@ -50,8 +51,9 @@ foreach($gimages as $gimage) {
             Galleria.run('.galleria',{
               autoplay: 7000,
               height: 650,
-              width: 1230
+              width: 1350
             });
+        
         }());
 </script>
 	
