@@ -25,7 +25,7 @@ if(isset($_POST['submit'])){
 	//echo $row['category'];
 	//header("Location: redirectpage.php");
 	if ($rowinfo['category'] == "admin"){
-		header("Location: registerpage.html"); // redirecting to 
+		header("Location: upload/index.php"); // redirecting to 
 		//echo "$query";
 	}
 	else if ($rowinfo['category'] == "family"){
@@ -33,7 +33,7 @@ if(isset($_POST['submit'])){
 		header("Location: /mainpage/index.php"); //redirect to normal page
 	}
 	else if ($rowinfo['category'] == "resident"){
-		header("Location: /mainpage/index.html");
+		header("Location: /mainpage/index.php");
 	}
 	else{ // bullet proof
 		$error = "Username of Password is Invalid";

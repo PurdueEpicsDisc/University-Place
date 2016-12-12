@@ -15,7 +15,7 @@ font:verdana, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", seri
 margin-top:10px; 
 }
 input[type=text], input[type=password]{
-width:30%;
+width:80%;
 padding:5px;
 margin-top:5px;
 border:1px solid #ccc;
@@ -25,7 +25,7 @@ font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman
 }
 
 input[type=submit]{
-width:30%;
+width:80%;
 background-color:#009;
 color:#fff;
 border:2px solid #ccc;
@@ -40,11 +40,11 @@ margin-bottom:10px;
 <body>
 <img src="UPRC_Login_4.PNG" style='width:100%;height:100%' alt='[]' />
 <div class="login">
-<h1 align="center">General Login Page</h1>
+<h1 align="center" style="font-family:Kunstler Script, cursive;font-size:300%">Login</h1>
 <form action="" method="post" style="text-align:center;">
-<input type="text" placeholder="Username" id="user" name="user"><br/><br/>
-<input type="password" placeholder="Password" id="pass" name="pass"><br/><br/>
-<input type="submit" value="Login" name="submit">
+<input style="font-family:verdana" type="text" placeholder="Username" id="user" name="user"><br/><br/>
+<input style="font-family:verdana" type="password" placeholder="Password" id="pass" name="pass"><br/><br/>
+<input style="background-color:tan" type="submit" value="Login" name="submit">
 <!-- Error Message -->
 <span><?php echo $error; ?></span>
 </body>
